@@ -31,4 +31,5 @@ The models were evaluated on held-out test data using root mean squared error (R
 ## Feature Importance
 Feature importance analysis revealed that day of the week, 7-day case average, and park visits were the most predictive variables - aligning with domain knowledge.
 
+## Summary
 In summary, the machine learning models were able to leverage detailed data to make accurate county-level case predictions to assist public health decision-making for pandemic planning and response.
