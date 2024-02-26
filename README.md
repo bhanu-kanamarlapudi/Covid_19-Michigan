@@ -1,4 +1,4 @@
-# covid19_MI
+# Covid-19 Michigan
 
 ## Objective
 The goal of this project was to accurately predict the number of daily Covid-19 cases across different counties in Michigan using machine learning models. Accurate predictions would allow public health officials to better allocate resources and plan pandemic response measures.
